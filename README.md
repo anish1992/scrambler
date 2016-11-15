@@ -1,6 +1,6 @@
 # scrambler
 
-[**Resturent Reservation System**](https://github.com/anish1992/csc-648) made with Bootstrap, SQL, PHP, Google frameworks, AWS, JavaScript, CSS, HTML and version controlling (SVN) in a team for Software Engineering class.
+[**scrambler**](https://github.com/anish1992/scrambler/) made with C++ and Java.
 
 I Wrote a C++ and Java program, which manipulates text file using iostream and system commands, to scramble the text of the text file depending on a passphrase set by the user. The text file could only descramble with the passphrase, which the user had set. There's also a Java GUI that would run the scrambler.  This project was a pet project that I did because after my CSC 340 class I wanted to explore more with system commands c++ and java. Then, I ended up making iterative updates and using it on my computer.
  
